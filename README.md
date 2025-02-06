@@ -1,7 +1,5 @@
-**Branches/tags:** *Data Science, Machine Learning*
+**Branches/tags:** *Computer Vision*
 
 
-**Data Science:**
-*Estudos relacionados a biblioteca Pandas para Ciência de Dados*
-
-São estudos e aulas tanto da DNC quanto Udemy para Ciência de Dados. Nesses estudos há a manipulação de dataset e estração de graficos. No colab hospedado não foi utilizado Jupyter Notebook Local, pois não consegui "plotar" os gráficos utilizando o plotly.
+*Estudos Udemy:**
+*Estudos relacionados a biblioteca para segmentação de imagens*
